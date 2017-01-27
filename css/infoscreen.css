@@ -1,104 +1,78 @@
-/*overall header style*/
-
-#header {
-    margin: 0px;
+header, header div {
+  background-color: #0064A6;
 }
 
-#header {
-    background-color: #0064A6;
-    width: 100%;
-}
-#header .container-fluid {
-    margin-right: auto;
-    margin-left: auto;
-  }
-#header .no-padding {
-    padding: 0px;
-}
-
-
-/*Logo style*/
-
-#logo-container{
-    float: left;
-    border-right: 5px solid #ffffff;
-    box-sizing: border-box;
-}
-@media (max-width: 767px){
-  #logo-container{
-      float: left;
-      border-right: 3px solid #ffffff;
-      box-sizing: border-box;
-  }
-}
-@media (max-width: 767px){
-  #logo {
-      height: 60px;
-  }
-}
-
-/*Title Boxes*/
-
-#monitor-title{
-    margin-left: 140px;
-    padding: 0 15px;
-    border-bottom: 5px solid #ffffff;
-}
-#departement-title{
-  margin-left: 140px;
-  padding: 0 15px;
-}
-@media (max-width: 767px){
-  #monitor-title, #departement-title{
-      margin-left: 63px;
-      padding: 0 7px;
-  }
-}
-@media (max-width: 767px){
-  #monitor-title {
-      border-bottom: 3px solid #ffffff;
-  }
-}
-
-/*Font style*/
-
-#header h1 {
-    font-size: 6em;
-}
-@media (max-width: 767px){
-  #header h1 {
-      font-size: 2.4em;
-  }
-}
-#header h2 {
-    font-size: 2.5em;
-}
-@media (max-width: 767px){
-  #header h2 {
-      font-size: 1.2em;
-  }
-}
-#header h1, #header h2 {
-    font-family: "HelveticaW01-RoundedBd",Helvetica,sans-serif;
-    font-weight: bold;
-    color: #ffffff;
-}
-
-/*Body and Iframe*/
-
-body {
+header #logo {
+  margin: 0;
+  padding: 0;
   height: 100%;
-  width: 100%;
-  border: none;
 }
 
-iframe {
-  height: 80vh;
-  width: 100%;
-  border: none;
+header #logo-container{
+  margin: 0;
+  padding: 0;
+  border-right: 5px solid #ffffff;
+  height: 135px; /*depends on heigth of logo*/
+  text-align: center;
 }
 
-/*footer*/
+header #title-container{
+  margin: 0;
+  padding: 0;
+}
+
+header #institute-title{
+  border-top: 5px solid #ffffff;
+}
+
+header #function-title{
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 1.3em;
+  color: #ffffff;
+  margin-bottom: -1em;
+}
+
+header #clock-container{
+  padding: 12px 12px 12px 0;
+}
+
+@media screen and (max-width: 767px) {
+    #clock-container {
+        display: none;
+    }
+}
+
+header #clock-title{
+  margin: 0;
+  padding: 0 5px 0 5px;
+  color: #ffffff;
+  text-align: center;
+  border: 3px solid #ffffff;
+  border-radius: 10px;
+}
+
+header #clock-time{
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+}
+
+header #clock-date{
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+header #institute-subtitle{
+  border-top: 5px solid #ffffff;
+}
+
+header #institute-subtitle{
+  font-size: 2em;
+  font-weight: bold;
+  color: #ffffff;
+}
 
 #footer{
   position: absolute;
@@ -107,19 +81,15 @@ iframe {
   height: 50px;
   background-color: #0064A6;
 }
-@media (max-width: 767px){
-  #footer {
-      height: 30px;
-  }
-}
+
 #footer-content{
-  font-family: "HelveticaW01-RoundedBd",Helvetica,sans-serif;
   font-size: 2em;
   font-weight: bold;
   color: #ffffff;
 }
-@media (max-width:767px) {
-  #footer-content{
-    font-size: 1.2em;
-  }
+
+iframe {
+  height: 80vh;
+  width: 100%;
+  border: none;
 }

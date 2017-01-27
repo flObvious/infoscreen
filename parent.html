@@ -12,22 +12,28 @@
 
   <body>
     <!--HEADER/ TITLEBAR -->
-    <header id="header">
-    	<div class="container-fluid no-padding">
-    		<div class="row-fluid">
-    			<div class="col-lg-12  no-padding">
-    				<div id="logo-container">
-    					<img id="logo" alt="ZHAW Logo" src="img/logo.png">
-    				</div>
-    				<div id="monitor-title">
-    					<h1 class="no-margin">Info Screen</h1>
-    				</div>
-    				<div id="departement-title">
-    					<h2 class="no-margin">InIT</h2>
-    				</div>
-    			</div>
-    		</div>
-    	</div>
+    <header>
+      <div class="col-lg-1" id="logo-container">
+        <img id="logo" alt="ZHAW Logo" src="img/logo.png">
+      </div>
+      <div class="col-lg-11" id="title-container">
+        <div class="col-lg-11" id="function-title">
+          Infoscreen
+        </div>
+        <div class="col-lg-1" id="clock-container">
+          <div class="col-lg-12" id="clock-title">
+            <div class="col-lg-12" id="clock-time">
+              16:41
+            </div>
+            <div class="col-lg-12" id="clock-date">
+              26.01.2017
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-12" id="institute-subtitle">
+          InIT - Institut für angewandte Informationstechnologie
+        </div>
+      </div>
     </header>
 
     <iframe></iframe>
@@ -35,7 +41,7 @@
     <footer id="footer">
       <marquee id="footer-content">Das Projekt Infoscreen wird gerade behandelt</marquee>
     </footer>
-    
+
     <script src="js/jquery-1.11.3.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/page.js"></script>
