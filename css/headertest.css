@@ -1,0 +1,95 @@
+header, header div {
+  background-color: #0064A6;
+}
+
+header #logo {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+header #logo-container{
+  margin: 0;
+  padding: 0;
+  border-right: 5px solid #ffffff;
+  height: 135px; /*depends on heigth of logo*/
+  text-align: center;
+}
+
+header #title-container{
+  margin: 0;
+  padding: 0;
+}
+
+header #institute-title{
+  border-top: 5px solid #ffffff;
+}
+
+header #function-title{
+  font-size: 5em;
+  font-weight: bold;
+  line-height: 1.3em;
+  color: #ffffff;
+  margin-bottom: -1em;
+}
+
+header #clock-container{
+  padding: 12px 12px 12px 0;
+}
+
+@media screen and (max-width: 767px) {
+    #clock-container {
+        display: none;
+    }
+}
+
+header #clock-title{
+  margin: 0;
+  padding: 0 5px 0 5px;
+  color: #ffffff;
+  text-align: center;
+  border: 3px solid #ffffff;
+  border-radius: 10px;
+}
+
+header #clock-time{
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 0.15em;
+}
+
+header #clock-date{
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
+
+header #institute-subtitle{
+  border-top: 5px solid #ffffff;
+}
+
+header #institute-subtitle{
+  font-size: 2em;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: #0064A6;
+}
+
+#footer-content{
+  font-size: 2em;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+iframe {
+  height: 80vh;
+  width: 100%;
+  border: none;
+}
