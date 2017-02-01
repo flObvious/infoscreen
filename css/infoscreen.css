@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "HelveticaW01-RoundedBd";
+  src:url("../fonts/c280ced9-704c-46b2-a66a-aff7ee1627bf.woff") format("woff")
+}
+
 header, header div {
   background-color: #0064A6;
 }
@@ -28,6 +33,7 @@ header #institute-title{
 header #function-title{
   font-size: 5em;
   font-weight: bold;
+  font-family: "HelveticaW01-RoundedBd";
   line-height: 1.3em;
   color: #ffffff;
   margin-bottom: -1em;
@@ -37,10 +43,10 @@ header #clock-container{
   padding: 12px 12px 12px 0;
 }
 
-@media screen and (max-width: 767px) {
-    #clock-container {
-        display: none;
-    }
+@media screen  and (max-width:641px) {
+  #clock-container{
+    visibility: hidden;
+  }
 }
 
 header #clock-title{
@@ -54,6 +60,7 @@ header #clock-title{
 
 header #clock-time{
   font-size: 2em;
+  font-family: "HelveticaW01-RoundedBd";
   text-align: center;
   font-weight: bold;
   letter-spacing: 0.15em;
@@ -61,6 +68,7 @@ header #clock-time{
 
 header #clock-date{
   font-weight: bold;
+  font-family: "HelveticaW01-RoundedBd";
   letter-spacing: 0.1em;
 }
 
@@ -71,6 +79,7 @@ header #institute-subtitle{
 header #institute-subtitle{
   font-size: 2em;
   font-weight: bold;
+  font-family: "HelveticaW01-RoundedBd";
   color: #ffffff;
 }
 
@@ -85,6 +94,7 @@ header #institute-subtitle{
 #footer-content{
   font-size: 2em;
   font-weight: bold;
+  font-family: "HelveticaW01-RoundedBd";
   color: #ffffff;
 }
 
