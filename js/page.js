@@ -13,21 +13,21 @@
     }, 7000);
   });
 
-function clock() {
-    var today = new Date();
-    var h = today.getHours();
-    var m = today.getMinutes();
-    m = checkTime(m);
-    document.getElementById('clock-time').innerHTML =
-    h + ":" + m;
-    var t = setTimeout(startTime, 500);
-}
-function checkTime(i) {
-    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-    return i;
-}
-
 function datum() {
   var d = new Date();
   document.getElementById("clock-date").innerHTML = [d.getDate(), d.getMonth()+1, d.getFullYear()].join('.');
+}
+
+function clock() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  m = checkTime(m);
+  document.getElementById('clock-time').innerHTML =
+      h + ":" + m;
+  var t = setTimeout(clock, 500);
+}
+function checkTime(i) {
+  if (i < 10) {i = "0" + i}
+  return i;
 }
