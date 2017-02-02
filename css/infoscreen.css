@@ -59,16 +59,17 @@ header #clock-title{
 }
 
 header #clock-time{
-  font-size: 2em;
-  font-family: "HelveticaW01-RoundedBd";
+  font-size: 1.9em;
+  font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
   text-align: center;
   font-weight: bold;
   letter-spacing: 0.15em;
 }
 
 header #clock-date{
+  font-size: 1.2em;
   font-weight: bold;
-  font-family: "HelveticaW01-RoundedBd";
+  font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
   letter-spacing: 0.1em;
 }
 
@@ -79,7 +80,7 @@ header #institute-subtitle{
 header #institute-subtitle{
   font-size: 2em;
   font-weight: bold;
-  font-family: "HelveticaW01-RoundedBd";
+  font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
   color: #ffffff;
 }
 
@@ -94,7 +95,7 @@ header #institute-subtitle{
 #footer-content{
   font-size: 2em;
   font-weight: bold;
-  font-family: "HelveticaW01-RoundedBd";
+  font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
   color: #ffffff;
 }
 
