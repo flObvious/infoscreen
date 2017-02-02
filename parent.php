@@ -5,4 +5,3 @@ if ($handle = opendir('pages')) {
     }
     closedir($handle);
 }
-?>
