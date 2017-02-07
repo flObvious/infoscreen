@@ -15,19 +15,22 @@
 
 function datum() {
   var d = new Date();
-  document.getElementById("clock-date").innerHTML = [d.getDate(), d.getMonth()+1, d.getFullYear()].join('.');
+  var day = leadingCharacter(d.getDate());
+  var month = leadingCharacter(d.getMonth()+1);
+  var year = d.getFullYear();
+  document.getElementById("clock-date").innerHTML = [day, month, year].join('.');
 }
 
 function clock() {
   var today = new Date();
   var h = today.getHours();
   var m = today.getMinutes();
-  m = checkTime(m);
+  m = leadingCharacter(m);
   document.getElementById('clock-time').innerHTML = h + ":" + m;
   var t = setTimeout(clock, 500);
 }
 
-function checkTime(i) {
+function leadingCharacter(i) {
   if (i < 10) {i = "0" + i}
   return i;
 }

@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "HelveticaW01-RoundedBd";
-  src:url("../fonts/c280ced9-704c-46b2-a66a-aff7ee1627bf.woff") format("woff")
+    src:url("../fonts/c280ced9-704c-46b2-a66a-aff7ee1627bf.woff") format("woff")
 }
 
 header, header div {
@@ -33,7 +33,7 @@ header #institute-title{
 header #function-title{
   font-size: 5em;
   font-weight: bold;
-  font-family: "HelveticaW01-RoundedBd";
+  font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
   line-height: 1.3em;
   color: #ffffff;
   margin-bottom: -1em;
@@ -104,3 +104,52 @@ iframe {
   width: 100%;
   border: none;
 }
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#project-content{
+    margin: 3.5em 0 0 0;
+}
+
+#project-title, #activity-title{
+    height: 5em;
+}
+
+#project-text {
+    height: 50em;
+}
+
+#project-upload{
+    margin: 3.5em 0 0 0;
+}
+
+#activity-upload{
+    height: 30em;
+}
+
+#activity-text{
+    height: 22em;
+}
+
+#activity-submit{
+    text-align: right;
+}
+
