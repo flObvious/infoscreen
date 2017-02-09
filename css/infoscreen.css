@@ -107,12 +107,13 @@ iframe {
 
 input[type=text] {
     width: 100%;
-    padding: 12px 20px;
+    padding: 0 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
 }
 
 textarea {
@@ -123,6 +124,9 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+    font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
+    font-size: 2em;
+    resize: none;
 }
 
 #project-content{
@@ -130,11 +134,13 @@ textarea {
 }
 
 #project-title, #activity-title{
-    height: 5em;
+    font-size: 7.1em;
+    font-weight: bold;
 }
 
 #project-text {
-    height: 50em;
+    height: 24em;
+    font-weight: bold;
 }
 
 #project-upload{
@@ -142,11 +148,12 @@ textarea {
 }
 
 #activity-upload{
-    height: 30em;
+    height: 27em;
 }
 
 #activity-text{
-    height: 22em;
+    height: 10em;
+    font-weight: bold;
 }
 
 #activity-submit{
