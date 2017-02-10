@@ -19,5 +19,6 @@
       </library>
     </orderEntry>
     <orderEntry type="module" module-name="public2" />
+    <orderEntry type="module" module-name="public" />
   </component>
 </module>

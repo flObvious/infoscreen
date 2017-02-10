@@ -34,3 +34,18 @@ function leadingCharacter(i) {
   if (i < 10) {i = "0" + i}
   return i;
 }
+
+// $('textarea').keyup(updateCount);
+//
+// function updateCount() {
+//     var cs = [1000- $(this).val().length];
+//     $('#characters').text(cs);
+//
+// }
+
+$(document).ready(function(){
+  $('textarea').on('keyup',function(){
+      var charCount = $(this).val().replace(/\s/g, '').length;
+      $(".result").text(charCount + " chars");
+  });
+});
