@@ -45,7 +45,8 @@ function leadingCharacter(i) {
 
 $(document).ready(function(){
   $('textarea').on('keyup',function(){
-      var charCount = $(this).val().replace(/\s/g, '').length;
+      // var charCount = $(this).val().replace(/\s/g, '').length; dosn't count space and enter
+      var charCount = $(this).val().length;
       $(".result").text(charCount + " chars");
   });
 });

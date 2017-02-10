@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34aa3dc7-bdd0-467e-ac19-3ffe94d37f3b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/infoscreen.iml" afterPath="$PROJECT_DIR$/.idea/infoscreen.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="34aa3dc7-bdd0-467e-ac19-3ffe94d37f3b" name="Default" comment="added character to textarea for templates">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/page.js" afterPath="$PROJECT_DIR$/js/page.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/activity.html" afterPath="$PROJECT_DIR$/template/activity.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/project.html" afterPath="$PROJECT_DIR$/template/project.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +32,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="activity.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/activity.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="526">
@@ -49,18 +45,18 @@
       <file leaf-file-name="project.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/project.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="41" />
+            <state relative-caret-position="318">
+              <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="page.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            <state relative-caret-position="-200">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -124,9 +120,9 @@
         <option value="$USER_HOME$/Desktop/swisstext-website-v2/public/css/main.css" />
         <option value="$USER_HOME$/Desktop/swisstext-website-v2/public/2016/index.html" />
         <option value="$USER_HOME$/Desktop/swisstext-website-v2/public/css/swisstext.css" />
+        <option value="$PROJECT_DIR$/template/activity.html" />
         <option value="$PROJECT_DIR$/template/project.html" />
         <option value="$PROJECT_DIR$/js/page.js" />
-        <option value="$PROJECT_DIR$/template/activity.html" />
       </list>
     </option>
   </component>
@@ -315,7 +311,7 @@
       <workItem from="1486368201810" duration="14268000" />
       <workItem from="1486454346140" duration="25810000" />
       <workItem from="1486626841435" duration="14240000" />
-      <workItem from="1486713297078" duration="7419000" />
+      <workItem from="1486713297078" duration="9677000" />
     </task>
     <task id="LOCAL-00001" summary="small adjustment to js function and parent.html">
       <created>1486039462159</created>
@@ -352,11 +348,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486651341748</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added character to textarea for templates">
+      <created>1486736998215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1486736998215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82102000" />
+    <option name="totallyTimeSpent" value="84360000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,7 +405,8 @@
     <MESSAGE value="minor fixes to pages and main js&#10;" />
     <MESSAGE value="created two templates and addes 0 to date &#10;&#10;" />
     <MESSAGE value="small adjustments to templates and infoscreen.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="small adjustments to templates and infoscreen.css" />
+    <MESSAGE value="added character to textarea for templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="added character to textarea for templates" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -733,10 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/page.js">
+    <entry file="file://$PROJECT_DIR$/template/activity.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        <state relative-caret-position="526">
+          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -751,16 +755,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/project.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="24" column="8" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="41" />
+        <state relative-caret-position="318">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/activity.html">
+    <entry file="file://$PROJECT_DIR$/js/page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="27" column="41" lean-forward="false" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="-200">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding />
         </state>
       </provider>
