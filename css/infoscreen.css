@@ -105,6 +105,8 @@ iframe {
   border: none;
 }
 
+/* Template input css */
+
 input[type=text] {
     width: 100%;
     padding: 0 20px;
@@ -158,5 +160,34 @@ textarea {
 
 #activity-submit{
     text-align: right;
+}
+
+/* Template file css */
+
+#activity-template-title{
+    text-align: center;
+}
+
+#activity-template-title-h1{
+    font-size: 7em;
+    font-weight: bold;
+    font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
+}
+
+#activity-template-img{
+    margin: 3em 0 1.5em 0;
+    text-align: center;
+    height: 27em;
+}
+
+#activity-template-image{
+    width:400px;
+    height:300px;
+}
+
+#activity-template-text{
+    font-weight: bold;
+    font-size: 1.8em;
+    font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
 }
 

@@ -1,7 +1,8 @@
   var sites = [
     "pages/page3.html",
     "pages/page2.html",
-    "pages/page1.html"
+    "pages/page1.html",
+    "pages/activity.html"
   ];
   var currentSite = sites.length;
 

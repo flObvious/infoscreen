@@ -39,7 +39,7 @@ DROP TABLE IF EXISTS `infoscreen`.`Template` ;
 
 CREATE TABLE IF NOT EXISTS `infoscreen`.`Template` (
   `idTemplate` INT NOT NULL AUTO_INCREMENT,
-  `HTML` VARCHAR(500) NULL,
+  `HTML` VARCHAR(1000) NULL,
   PRIMARY KEY (`idTemplate`))
   ENGINE = InnoDB;
 
@@ -78,7 +78,7 @@ CREATE TABLE IF NOT EXISTS `infoscreen`.`PageContent` (
   `idPageContent` INT NOT NULL AUTO_INCREMENT,
   `title` VARCHAR(250) NULL,
   `img` VARCHAR(250) NULL,
-  `text` VARCHAR(250) NULL,
+  `text` VARCHAR(500) NULL,
   `pageFK` INT NOT NULL,
   PRIMARY KEY (`idPageContent`),
   INDEX `pageFK_idx` (`pageFK` ASC),

@@ -37,7 +37,7 @@ mysqli_close($dbhandle)
     </head>
     <body>
         <form method="post" name="generate" action="generate.php" >
-            <input type="submit" name="Submit" value="Submit" />
+            <input type="submit" name="Submit" value="Generate File" />
         </form>
 
         <script src="../js/jquery-3.1.1.js"></script>

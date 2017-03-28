@@ -15,16 +15,24 @@ or die("Unable to connect to MySQL");
 
 mysqli_select_db($dbhandle, "infoscreen");
 
-$id = mysqli_query($dbhandle, 'SELECT COUNT(*) AS NumberOfPageContent FROM pagecontent;');
+//select newest id
+$id = mysqli_query($dbhandle, 'SELECT (idPageContent) FROM pagecontent ORDER BY idPageContent DESC LIMIT 1;');
 $newid = mysqli_fetch_array($id, MYSQLI_NUM);
 
+//select content
 $title = mysqli_query($dbhandle, 'SELECT title FROM pagecontent WHERE idPageContent='.$newid[0].';');
 $img = mysqli_query($dbhandle, 'SELECT img FROM pagecontent WHERE idPageContent='.$newid[0].';');
 $text = mysqli_query($dbhandle, 'SELECT text FROM pagecontent WHERE idPageContent='.$newid[0].';');
 
+//convert sql query result to array
 $title = mysqli_fetch_array($title, MYSQLI_NUM);
 $img = mysqli_fetch_array($img, MYSQLI_NUM);
 $text = mysqli_fetch_array($text, MYSQLI_NUM);
+
+echo "<strong>inserted file with </strong><br />";
+echo "<strong>title: </strong>".$title[0]."<br />";
+echo "<strong>img: </strong>".$img[0]."<br />";
+echo "<strong>text: </strong>".$text[0];
 
 //replace with placeholders --> dev placeholders
 $titlePlaceholder = "<!--Title-->";
