@@ -6,19 +6,17 @@
  * Time: 10:46
  */
 
-$username = "root";
-$password = "Welcome123";
-$hostname = "localhost";
+include 'connectToDB.php';
 
-//connection to the database
-$dbhandle = mysqli_connect($hostname, $username, $password)
-or die("Unable to connect to MySQL");
+//select newest id
+$id = mysqli_query(connectDB(), 'SELECT (idTemplate) FROM template ORDER BY idTemplate DESC LIMIT 1;');
+$newid = mysqli_fetch_array($id, MYSQLI_NUM);
 
-mysqli_select_db($dbhandle, "infoscreen");
-
-$template = mysqli_query($dbhandle, 'SELECT HTML FROM template WHERE idTemplate=1');
+$template = mysqli_query(connectDB(), 'SELECT HTML FROM template WHERE idTemplate='.$newid[0].';');
 $content = mysqli_fetch_array($template, MYSQLI_NUM);
 
-$fp = fopen("templatefile/activity1.html","w");
+$fp = fopen("templatefile/activity".$newid[0].".html","w");
 fwrite($fp,$content[0]);
 fclose($fp);
+
+mysqli_close(connectDB());

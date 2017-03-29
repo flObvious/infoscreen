@@ -1,13 +1,5 @@
 <?php
-$username = "root";
-$password = "Welcome123";
-$hostname = "localhost";
-
-//connection to the database
-$dbhandle = mysqli_connect($hostname, $username, $password)
-or die("Unable to connect to MySQL");
-
-mysqli_select_db($dbhandle, "infoscreen");
+include 'connectToDB.php';
 
 $title = $_POST['title'];
 $img = $_POST['img'];
@@ -16,13 +8,13 @@ $text = $_POST['text'];
 $sql="INSERT INTO pagecontent (idPageContent, title, img, text, pageFK) VALUES (NULL , '$title', '$img', '$text', 1)";
 //$sql="INSERT INTO template (idtemplate, title, image, HTML) VALUES('2','title', 'IMG', 'test2')";
 
-if(mysqli_query($dbhandle, $sql)){
+if(mysqli_query(connectDB(), $sql)){
     echo "Records added successfully.";
 } else{
-    echo "ERROR: Could not able to execute $sql. " . mysqli_error($dbhandle);
+    echo "ERROR: Could not able to execute $sql. " . mysqli_error(connectDB());
 }
 
-mysqli_close($dbhandle)
+mysqli_close(connectDB());
 ?>
 <!DOCTYPE html>
 <html>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="infoscreen@localhost">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+    <root id="1"/>
+    <schema id="2" parent="1" name="infoscreen">
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="information_schema"/>
+    <schema id="4" parent="1" name="mydb"/>
+    <schema id="5" parent="1" name="mysql"/>
+    <schema id="6" parent="1" name="performance_schema"/>
+    <schema id="7" parent="1" name="sys"/>
+    <table id="8" parent="2" name="page"/>
+    <table id="9" parent="2" name="pagecontent"/>
+    <table id="10" parent="2" name="placeholder"/>
+    <table id="11" parent="2" name="scheduler"/>
+    <table id="12" parent="2" name="template"/>
+    <column id="13" parent="8" name="idPage">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="14" parent="8" name="schedulerFK">
+      <Position>2</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="15" parent="8" name="templateFK">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="16" parent="8" name="skedulerFK_idx">
+      <ColNames>schedulerFK</ColNames>
+    </index>
+    <index id="17" parent="8" name="templateFK_idx">
+      <ColNames>templateFK</ColNames>
+    </index>
+    <key id="18" parent="8" name="PRIMARY">
+      <ColNames>idPage</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="19" parent="8" name="skedulerFK">
+      <ColNames>schedulerFK</ColNames>
+      <RefSchemaName>infoscreen</RefSchemaName>
+      <RefTableName>scheduler</RefTableName>
+      <RefColNames>idScheduler</RefColNames>
+      <OnUpdate>no-action</OnUpdate>
+      <OnDelete>no-action</OnDelete>
+    </foreign-key>
+    <foreign-key id="20" parent="8" name="templateFK">
+      <ColNames>templateFK</ColNames>
+      <RefSchemaName>infoscreen</RefSchemaName>
+      <RefTableName>template</RefTableName>
+      <RefColNames>idTemplate</RefColNames>
+      <OnUpdate>no-action</OnUpdate>
+      <OnDelete>no-action</OnDelete>
+    </foreign-key>
+    <column id="21" parent="9" name="idPageContent">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="22" parent="9" name="placeholderFK">
+      <Position>2</Position>
+      <DataType>int(11)|0</DataType>
+    </column>
+    <column id="23" parent="9" name="pageFK">
+      <Position>3</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <index id="24" parent="9" name="pageFK_idx">
+      <ColNames>pageFK</ColNames>
+    </index>
+    <index id="25" parent="9" name="placeholderFK_idx">
+      <ColNames>placeholderFK</ColNames>
+    </index>
+    <key id="26" parent="9" name="PRIMARY">
+      <ColNames>idPageContent</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="27" parent="9" name="placeholderFK">
+      <ColNames>placeholderFK</ColNames>
+      <RefSchemaName>infoscreen</RefSchemaName>
+      <RefTableName>placeholder</RefTableName>
+      <RefColNames>idPlaceholder</RefColNames>
+      <OnUpdate>no-action</OnUpdate>
+      <OnDelete>no-action</OnDelete>
+    </foreign-key>
+    <foreign-key id="28" parent="9" name="pageFK">
+      <ColNames>pageFK</ColNames>
+      <RefSchemaName>infoscreen</RefSchemaName>
+      <RefTableName>page</RefTableName>
+      <RefColNames>idPage</RefColNames>
+      <OnUpdate>no-action</OnUpdate>
+      <OnDelete>no-action</OnDelete>
+    </foreign-key>
+    <column id="29" parent="10" name="idPlaceholder">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="30" parent="10" name="title">
+      <Position>2</Position>
+      <DataType>varchar(45)|0</DataType>
+    </column>
+    <column id="31" parent="10" name="img">
+      <Position>3</Position>
+      <DataType>varchar(250)|0</DataType>
+    </column>
+    <column id="32" parent="10" name="text">
+      <Position>4</Position>
+      <DataType>varchar(500)|0</DataType>
+    </column>
+    <key id="33" parent="10" name="PRIMARY">
+      <ColNames>idPlaceholder</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="34" parent="11" name="idScheduler">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="35" parent="11" name="frequency">
+      <Position>2</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="36" parent="11" name="duration">
+      <Position>3</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="37" parent="11" name="startDate">
+      <Position>4</Position>
+      <DataType>datetime|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="38" parent="11" name="endDate">
+      <Position>5</Position>
+      <DataType>datetime|0</DataType>
+    </column>
+    <key id="39" parent="11" name="PRIMARY">
+      <ColNames>idScheduler</ColNames>
+      <Primary>1</Primary>
+    </key>
+    <column id="40" parent="12" name="idTemplate">
+      <Position>1</Position>
+      <DataType>int(11)|0</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+    </column>
+    <column id="41" parent="12" name="HTML">
+      <Position>2</Position>
+      <DataType>varchar(1000)|0</DataType>
+    </column>
+    <key id="42" parent="12" name="PRIMARY">
+      <ColNames>idTemplate</ColNames>
+      <Primary>1</Primary>
+    </key>
+  </database-model>
+</dataSource>
