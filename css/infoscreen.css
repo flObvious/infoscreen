@@ -191,3 +191,14 @@ textarea {
     font-family: HelveticaW01-RoundedBd,Helvetica,sans-serif;
 }
 
+/* Create template */
+
+#upload-content{
+    height: 20em;
+}
+
+#upload-content-textarea{
+    height: 20em;
+}
+
+

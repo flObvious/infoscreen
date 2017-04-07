@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="infoscreen@localhost" uuid="97b2cec7-c140-4324-a1e0-8f2075a9bc43">
+    <data-source source="LOCAL" name="infoscreen_v2@localhost" uuid="03779dc8-f7bc-4328-b721-b5c3e517cf41">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/infoscreen</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/infoscreen_v2</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />

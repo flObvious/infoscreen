@@ -8,13 +8,13 @@
 include 'connectToDB.php';
 
 //select newest id
-$id = mysqli_query(connectDB(), 'SELECT (idPageContent) FROM pagecontent ORDER BY idPageContent DESC LIMIT 1;');
+$id = mysqli_query(connectDB(), 'SELECT (idPlaceholder) FROM placeholder ORDER BY idPlaceholder DESC LIMIT 1;');
 $newid = mysqli_fetch_array($id, MYSQLI_NUM);
 
 //select content
-$title = mysqli_query(connectDB(), 'SELECT title FROM pagecontent WHERE idPageContent='.$newid[0].';');
-$img = mysqli_query(connectDB(), 'SELECT img FROM pagecontent WHERE idPageContent='.$newid[0].';');
-$text = mysqli_query(connectDB(), 'SELECT text FROM pagecontent WHERE idPageContent='.$newid[0].';');
+$title = mysqli_query(connectDB(), 'SELECT title FROM placeholder WHERE idPlaceholder='.$newid[0].';');
+$img = mysqli_query(connectDB(), 'SELECT img FROM placeholder WHERE idPlaceholder='.$newid[0].';');
+$text = mysqli_query(connectDB(), 'SELECT text FROM placeholder WHERE idPlaceholder='.$newid[0].';');
 
 //convert sql query result to array
 $title = mysqli_fetch_array($title, MYSQLI_NUM);

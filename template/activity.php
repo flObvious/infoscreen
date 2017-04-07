@@ -5,8 +5,7 @@ $title = $_POST['title'];
 $img = $_POST['img'];
 $text = $_POST['text'];
 
-$sql="INSERT INTO pagecontent (idPageContent, title, img, text, pageFK) VALUES (NULL , '$title', '$img', '$text', 1)";
-//$sql="INSERT INTO template (idtemplate, title, image, HTML) VALUES('2','title', 'IMG', 'test2')";
+$sql="INSERT INTO placeholder (idPlaceholder, title, img, text) VALUES (NULL , '$title', '$img', '$text')";
 
 if(mysqli_query(connectDB(), $sql)){
     echo "Records added successfully.";

@@ -20,5 +20,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="public2" />
     <orderEntry type="module" module-name="public" />
+    <orderEntry type="module" module-name="infoscreen_v2" />
   </component>
 </module>

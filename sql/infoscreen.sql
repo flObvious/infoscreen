@@ -10,10 +10,6 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';
 -- -----------------------------------------------------
 -- Schema infoscreen
 -- -----------------------------------------------------
-
--- -----------------------------------------------------
--- Schema infoscreen
--- -----------------------------------------------------
 CREATE SCHEMA IF NOT EXISTS `infoscreen` DEFAULT CHARACTER SET utf8 ;
 USE `infoscreen` ;
 

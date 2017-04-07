@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../infoscreen_v2/sql/insert.sql" description="INSERT INTO Template (idTemplate, HTML) VALUES (NU..." line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="34aa3dc7-bdd0-467e-ac19-3ffe94d37f3b" name="Default" comment="added character to textarea for templates">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/template/templatefile/activity1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/150ef806-48fb-4b14-860c-98fb8fe52f1c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/23aae4f6-b0cd-43e5-a1c4-a52ada63e293.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/596e6fe8-2599-4ad1-9238-aa4acea6607c.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/c6c533d6-40e1-44be-9825-3b666ae16e68.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/c9f46b3f-a31c-4646-8773-d390e9a50307.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/d2506ae3-650f-4075-bf4e-564ec6cb0658.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/e0834b76-4e5d-49a6-ae73-db3705379bed.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/e6e03af9-4b20-4970-8898-76f4b2ee5dcb.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/eab02231-b2c0-44b1-88d8-2d5d947c6600.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/templatefile/template2.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../infoscreen_v2/parent.html" afterPath="$PROJECT_DIR$/../infoscreen_v2/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/show/29280498591_b5ccf2b861_o.jpg" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/show_img/29280498591_b5ccf2b861_o.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/infoscreen.iml" afterPath="$PROJECT_DIR$/.idea/infoscreen.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/infoscreen.css" afterPath="$PROJECT_DIR$/css/infoscreen.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sql/infoscreen.sql" afterPath="$PROJECT_DIR$/sql/infoscreen.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/activity.php" afterPath="$PROJECT_DIR$/template/activity.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/createtemplate.php" afterPath="$PROJECT_DIR$/template/createtemplate.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/generate.php" afterPath="$PROJECT_DIR$/template/generate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/css/infoscreen.css" afterPath="$PROJECT_DIR$/../infoscreen_v2/css/infoscreen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/js/page.js" afterPath="$PROJECT_DIR$/../infoscreen_v2/js/page.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/parent.php" afterPath="$PROJECT_DIR$/../infoscreen_v2/parent.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/activity.php" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/activity.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/createtemplate.php" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/createtemplate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/generate.php" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/generate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/show/activity.html" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/show/activity.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity.html" afterPath="$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +67,7 @@
         <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
       </PATH_ELEMENT>
       <PATH_ELEMENT>
-        <option name="myItemId" value="infoscreen@localhost" />
+        <option name="myItemId" value="infoscreen_v2@localhost" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
     </PATH>
@@ -48,63 +78,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="generate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/generate.php">
+      <file leaf-file-name="connectToDB.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/connectToDB.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-              <folding>
-                <marker date="1490787720713" expanded="true" signature="167:242" ph="SELECT (idPa... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="347:397" ph="SELECT title... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="347:408" ph="SELECT title... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="347:413" ph="SELECT title... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="449:497" ph="SELECT img F... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="449:508" ph="SELECT img F... pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="550:599" ph="SELECT text pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="550:610" ph="SELECT text pagecontent" />
-                <marker date="1490787720713" expanded="true" signature="550:611" ph="SELECT text pagecontent" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="infoscreen.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sql/infoscreen.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="746">
-              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/activity.php">
+        <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/activity.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="418">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding>
-                <marker date="1490787761499" expanded="true" signature="113:187" ph="INSERT INTO template... " />
-                <marker date="1490787761499" expanded="true" signature="113:194" ph="INSERT INTO pagecontent... " />
-                <marker date="1490787761499" expanded="true" signature="113:212" ph="INSERT INTO pagecontent... " />
-                <marker date="1490787761499" expanded="true" signature="113:223" ph="INSERT INTO template... " />
-                <marker date="1490787761499" expanded="true" signature="234:323" ph="INSERT INTO template... " />
+                <marker date="1491469813547" expanded="true" signature="61:130" ph="INSERT INTO Page... " />
+                <marker date="1491469813547" expanded="true" signature="168:222" ph="SELECT (idPa... Page" />
+                <marker date="1491469813547" expanded="true" signature="355:457" ph="INSERT INTO Placeholder... " />
+                <marker date="1491469813547" expanded="true" signature="355:471" ph="INSERT INTO Placeholder... " />
+                <marker date="1491469813547" expanded="true" signature="484:596" ph="INSERT INTO Placeholder... " />
+                <marker date="1491469813547" expanded="true" signature="609:723" ph="INSERT INTO Placeholder... " />
+                <marker date="1491469813547" expanded="true" signature="1014:1773" ph="..." />
+                <marker date="1491469813547" expanded="true" signature="1025:1430" ph="..." />
+                <marker date="1491469813547" expanded="true" signature="1441:1463" ph="..." />
+                <marker date="1491469813547" expanded="true" signature="1441:1765" ph="..." />
+                <marker date="1491469813547" expanded="true" signature="1508:1597" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="createtemplate.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/createtemplate.php">
+      <file leaf-file-name="parent.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../infoscreen_v2/parent.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="36" />
-              <folding>
-                <element signature="e#6#86#0#PHP" expanded="true" />
-                <marker date="1490787537691" expanded="true" signature="168:234" ph="SELECT (idTe... template" />
-                <marker date="1490787537691" expanded="true" signature="325:332" ph="SELECT (idPa... pagecontent" />
-                <marker date="1490787537691" expanded="true" signature="325:368" ph="SELECT HTML template" />
-              </folding>
+            <state relative-caret-position="132">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../infoscreen_v2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1012">
+              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../infoscreen_v2/js/page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -135,17 +166,17 @@
       <find>mydb</find>
       <find>programm</find>
       <find>cti</find>
+      <find>big5</find>
+      <find>big</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../infoscreen_v2" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pages/page2.html" />
-        <option value="$PROJECT_DIR$/pages/page3.html" />
         <option value="$PROJECT_DIR$/parent.html" />
         <option value="$PROJECT_DIR$/test/test3.js" />
         <option value="$PROJECT_DIR$/test/sprite.html" />
@@ -167,16 +198,36 @@
         <option value="$PROJECT_DIR$/js/page.js" />
         <option value="$PROJECT_DIR$/template/templatefile/activity.html" />
         <option value="$PROJECT_DIR$/pages/activity.html" />
-        <option value="$PROJECT_DIR$/css/infoscreen.css" />
         <option value="$USER_HOME$/Desktop/swisstext-website-v2/public/index.html" />
         <option value="$PROJECT_DIR$/template/templatefile/createtemplate.php" />
         <option value="$PROJECT_DIR$/template/templatefile/activity1.html" />
         <option value="$PROJECT_DIR$/sql/insert.sql" />
-        <option value="$PROJECT_DIR$/template/createtemplate.php" />
         <option value="$PROJECT_DIR$/template/connectToDB.php" />
-        <option value="$PROJECT_DIR$/template/generate.php" />
+        <option value="$PROJECT_DIR$/template/createtemplate.php" />
         <option value="$PROJECT_DIR$/template/activity.php" />
+        <option value="$PROJECT_DIR$/template/generate.php" />
+        <option value="$PROJECT_DIR$/template/uploadetemplate.php" />
+        <option value="$PROJECT_DIR$/css/infoscreen.css" />
+        <option value="$PROJECT_DIR$/template/uploadtemplate.php" />
         <option value="$PROJECT_DIR$/sql/infoscreen.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/uploadtemplate.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/sql/infoscreen.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/connectToDB.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/61a08138-e7b5-4b45-ae34-7f60d6f96eb9/console.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/sql/insert.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/sql/infoscreen_v2_values.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/41e34fe7-af06-4f6c-9290-0a62d58d008d/console.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/activity1.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/activity.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/createtemplate.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/03779dc8-f7bc-4328-b721-b5c3e517cf41/console.sql" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/generate.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/css/infoscreen.css" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity.html" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/parent.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/index.php" />
+        <option value="$PROJECT_DIR$/../infoscreen_v2/js/page.js" />
       </list>
     </option>
   </component>
@@ -193,7 +244,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -211,7 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,7 +270,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="infoscreen" />
+              <option name="myItemId" value="infoscreen_v2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -230,7 +280,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="infoscreen" />
+              <option name="myItemId" value="infoscreen_v2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -244,7 +294,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="infoscreen" />
+              <option name="myItemId" value="infoscreen_v2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -262,41 +312,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="infoscreen" />
+              <option name="myItemId" value="infoscreen_v2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sql" />
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="show_img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="show" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="infoscreen_v2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/swisstext-website-v2/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../infoscreen_v2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\infoscreen\template" />
-      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public" />
-      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public\img\2016" />
-      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public\img\2017" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\infoscreen_v2\sql" />
       <recent name="C:\xampp\htdocs\infoscreen\pages" />
       <recent name="C:\xampp\htdocs\infoscreen\pages\img" />
       <recent name="C:\xampp\htdocs\infoscreen\sql" />
       <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public\2016" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\infoscreen_v2\template\show_img" />
+      <recent name="C:\xampp\htdocs\infoscreen\template" />
+      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public" />
+      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public\img\2016" />
+      <recent name="C:\Users\stbf\Desktop\swisstext-website-v2\public\img\2017" />
     </key>
   </component>
   <component name="RunManager">
@@ -384,7 +487,12 @@
       <workItem from="1488891814629" duration="10150000" />
       <workItem from="1489478431030" duration="1702000" />
       <workItem from="1489650902832" duration="8352000" />
-      <workItem from="1489996475388" duration="102214000" />
+      <workItem from="1489996475388" duration="111747000" />
+      <workItem from="1490857125356" duration="21448000" />
+      <workItem from="1490884715493" duration="12184000" />
+      <workItem from="1491202592309" duration="8548000" />
+      <workItem from="1491222735318" duration="7002000" />
+      <workItem from="1491289154776" duration="72297000" />
     </task>
     <task id="LOCAL-00001" summary="small adjustment to js function and parent.html">
       <created>1486039462159</created>
@@ -432,7 +540,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="224895000" />
+    <option name="totallyTimeSpent" value="355907000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,11 +555,11 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16927083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1921875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -464,6 +572,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -486,500 +595,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="49" lean-forward="false" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9/infoscreen.template">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9</OriginalElement>
-          <nodes>
-            <node x="" y="">ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9.TABLE:infoscreen.page</node>
-            <node x="" y="">ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9.TABLE:infoscreen.scedule</node>
-            <node x="" y="">ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9.TABLE:infoscreen.page_content</node>
-            <node x="" y="">ce4ecb8e-d682-4ab5-bcf2-84bcaf2d43d9.TABLE:infoscreen.template</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.5" y="267.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c9f46b3f-a31c-4646-8773-d390e9a50307/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/c9f46b3f-a31c-4646-8773-d390e9a50307/infoscreen.template">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/23aae4f6-b0cd-43e5-a1c4-a52ada63e293/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/23aae4f6-b0cd-43e5-a1c4-a52ada63e293/infoscreen.template">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/23aae4f6-b0cd-43e5-a1c4-a52ada63e293">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>23aae4f6-b0cd-43e5-a1c4-a52ada63e293</OriginalElement>
-          <nodes>
-            <node x="" y="">23aae4f6-b0cd-43e5-a1c4-a52ada63e293.TABLE:infoscreen.page_content</node>
-            <node x="" y="">23aae4f6-b0cd-43e5-a1c4-a52ada63e293.TABLE:infoscreen.template</node>
-            <node x="" y="">23aae4f6-b0cd-43e5-a1c4-a52ada63e293.TABLE:infoscreen.page</node>
-            <node x="" y="">23aae4f6-b0cd-43e5-a1c4-a52ada63e293.TABLE:infoscreen.scedule</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="763.5" y="267.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e6e03af9-4b20-4970-8898-76f4b2ee5dcb/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/project.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/e6e03af9-4b20-4970-8898-76f4b2ee5dcb">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>e6e03af9-4b20-4970-8898-76f4b2ee5dcb</OriginalElement>
-          <nodes>
-            <node x="" y="">e6e03af9-4b20-4970-8898-76f4b2ee5dcb.TABLE:infoscreen.template</node>
-            <node x="" y="">e6e03af9-4b20-4970-8898-76f4b2ee5dcb.TABLE:infoscreen.page_content</node>
-            <node x="" y="">e6e03af9-4b20-4970-8898-76f4b2ee5dcb.TABLE:infoscreen.scedule</node>
-            <node x="" y="">e6e03af9-4b20-4970-8898-76f4b2ee5dcb.TABLE:infoscreen.page</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="240.5" y="267.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a7840958-461a-4f70-974f-35dd1361fa53/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c6c533d6-40e1-44be-9825-3b666ae16e68/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/c6c533d6-40e1-44be-9825-3b666ae16e68">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>c6c533d6-40e1-44be-9825-3b666ae16e68</OriginalElement>
-          <nodes>
-            <node x="-354.0" y="-627.5">c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.template</node>
-            <node x="-220.25" y="-446.0">c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.page</node>
-            <node x="-125.0" y="-668.0">c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.sceduler</node>
-            <node x="-268.25" y="-278.0">c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.pagecontent</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.page" target="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.template">
-              <point x="-49.25" y="-59.0" />
-              <point x="-171.0" y="-471.0" />
-              <point x="-249.5" y="-471.0" />
-              <point x="0.0" y="45.5" />
-            </edge>
-            <edge source="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.page" target="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.sceduler">
-              <point x="49.25" y="-59.0" />
-              <point x="-72.5" y="-471.0" />
-              <point x="6.0" y="-471.0" />
-              <point x="0.0" y="86.0" />
-            </edge>
-            <edge source="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.pagecontent" target="c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.page">
-              <point x="0.0" y="-86.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-550.0" y="-564.0" />
-          <SelectedNodes>
-            <node>c6c533d6-40e1-44be-9825-3b666ae16e68.TABLE:infoscreen.pagecontent</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/150ef806-48fb-4b14-860c-98fb8fe52f1c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d2506ae3-650f-4075-bf4e-564ec6cb0658/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/150ef806-48fb-4b14-860c-98fb8fe52f1c">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>150ef806-48fb-4b14-860c-98fb8fe52f1c</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="565.5" y="201.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/d2506ae3-650f-4075-bf4e-564ec6cb0658">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>d2506ae3-650f-4075-bf4e-564ec6cb0658</OriginalElement>
-          <nodes>
-            <node x="0.0" y="40.5">d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.template</node>
-            <node x="133.75" y="222.0">d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.page</node>
-            <node x="229.0" y="0.0">d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.sceduler</node>
-            <node x="85.75" y="405.0">d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.pagecontent</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.page" target="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.sceduler">
-              <point x="49.25" y="-59.0" />
-              <point x="281.5" y="197.0" />
-              <point x="360.0" y="197.0" />
-              <point x="0.0" y="86.0" />
-            </edge>
-            <edge source="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.pagecontent" target="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.page">
-              <point x="0.0" y="-86.0" />
-              <point x="0.0" y="59.0" />
-            </edge>
-            <edge source="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.page" target="d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.template">
-              <point x="-49.25" y="-59.0" />
-              <point x="183.0" y="197.0" />
-              <point x="104.5" y="197.0" />
-              <point x="0.0" y="45.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="7.5" y="98.5" />
-          <SelectedNodes>
-            <node>d2506ae3-650f-4075-bf4e-564ec6cb0658.TABLE:infoscreen.pagecontent</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/page1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="81" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages/img/activity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/page.js">
+    <entry file="file://$PROJECT_DIR$/template/templatefile/activityArray.html" />
+    <entry file="file://$PROJECT_DIR$/sql/insert.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-          <folding />
+          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/activity.html">
+    <entry file="file://$PROJECT_DIR$/template/connectToDB.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="49" lean-forward="false" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="132">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/infoscreen.css">
+    <entry file="file://$PROJECT_DIR$/template/templatefile/activity1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="922">
-          <caret line="189" column="21" lean-forward="false" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="56" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="760" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e/console.sql">
+    <entry file="file://$PROJECT_DIR$/template/templatefile/template2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/swisstext-website-v2/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="346" column="86" lean-forward="false" selection-start-line="346" selection-start-column="86" selection-end-line="346" selection-end-column="86" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#13;n#blocks#0;n#section#7;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#14;n#blocks#0;n#section#7;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/templatefile/activity1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parent.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <marker date="1490626718014" expanded="true" signature="367:392" ph="SELECT * FRO... template" />
-            <marker date="1490626718014" expanded="true" signature="367:410" ph="SELECT HTML template" />
-            <marker date="1490626718014" expanded="true" signature="367:413" ph="SELECT HTML template" />
-            <marker date="1490626718014" expanded="true" signature="367:415" ph="SELECT * FRO... template" />
-            <marker date="1490626718014" expanded="true" signature="525:580" ph="SELECT COUNT... pagecontent" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parent.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/show/activity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e/infoscreen.pagecontent">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e/infoscreen.page">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e/infoscreen.template">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/d6fa38dc-a585-4c07-b3b9-948b9b7eac6e">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>d6fa38dc-a585-4c07-b3b9-948b9b7eac6e</OriginalElement>
-          <nodes>
-            <node x="" y="">d6fa38dc-a585-4c07-b3b9-948b9b7eac6e.TABLE:infoscreen.page</node>
-            <node x="" y="">d6fa38dc-a585-4c07-b3b9-948b9b7eac6e.TABLE:infoscreen.sceduler</node>
-            <node x="" y="">d6fa38dc-a585-4c07-b3b9-948b9b7eac6e.TABLE:infoscreen.template</node>
-            <node x="" y="">d6fa38dc-a585-4c07-b3b9-948b9b7eac6e.TABLE:infoscreen.pagecontent</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="245.5" y="281.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e0834b76-4e5d-49a6-ae73-db3705379bed/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/templatefile/activity.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/eab02231-b2c0-44b1-88d8-2d5d947c6600/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/596e6fe8-2599-4ad1-9238-aa4acea6607c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/97b2cec7-c140-4324-a1e0-8f2075a9bc43/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/4ecf8d92/97b2cec7-c140-4324-a1e0-8f2075a9bc43/infoscreen.page">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -987,7 +628,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
@@ -996,7 +636,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template/activity1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/show/activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4ecf8d92/97b2cec7-c140-4324-a1e0-8f2075a9bc43/infoscreen.placeholder">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4ecf8d92/97b2cec7-c140-4324-a1e0-8f2075a9bc43/infoscreen.pagecontent">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/infoscreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/97b2cec7-c140-4324-a1e0-8f2075a9bc43">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>97b2cec7-c140-4324-a1e0-8f2075a9bc43</OriginalElement>
+          <nodes>
+            <node x="" y="">97b2cec7-c140-4324-a1e0-8f2075a9bc43.TABLE:infoscreen.pagecontent</node>
+            <node x="" y="">97b2cec7-c140-4324-a1e0-8f2075a9bc43.TABLE:infoscreen.template</node>
+            <node x="" y="">97b2cec7-c140-4324-a1e0-8f2075a9bc43.TABLE:infoscreen.scheduler</node>
+            <node x="" y="">97b2cec7-c140-4324-a1e0-8f2075a9bc43.TABLE:infoscreen.placeholder</node>
+            <node x="" y="">97b2cec7-c140-4324-a1e0-8f2075a9bc43.TABLE:infoscreen.page</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="509.0" y="268.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
     <entry file="dbDummy://dbtable:/4ecf8d92/97b2cec7-c140-4324-a1e0-8f2075a9bc43/infoscreen.scheduler">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/infoscreen.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="73" lean-forward="false" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/generate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/activity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/createtemplate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="88" lean-forward="false" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/uploadtemplate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9ab9f562-36ef-4677-9440-c5b68b34b05c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4ecf8d92/9ab9f562-36ef-4677-9440-c5b68b34b05c/infoscreen.placeholder">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1009,7 +773,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/templatefile/activityArray.html">
+    <entry file="dbDummy://dbtable:/4ecf8d92/61a08138-e7b5-4b45-ae34-7f60d6f96eb9/infoscreen_v2.placeholder">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/61a08138-e7b5-4b45-ae34-7f60d6f96eb9">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>61a08138-e7b5-4b45-ae34-7f60d6f96eb9</OriginalElement>
+          <nodes>
+            <node x="" y="">61a08138-e7b5-4b45-ae34-7f60d6f96eb9.TABLE:infoscreen_v2.scheduler</node>
+            <node x="" y="">61a08138-e7b5-4b45-ae34-7f60d6f96eb9.TABLE:infoscreen_v2.page</node>
+            <node x="" y="">61a08138-e7b5-4b45-ae34-7f60d6f96eb9.TABLE:infoscreen_v2.placeholder</node>
+            <node x="" y="">61a08138-e7b5-4b45-ae34-7f60d6f96eb9.TABLE:infoscreen_v2.template</node>
+            <node x="" y="">61a08138-e7b5-4b45-ae34-7f60d6f96eb9.TABLE:infoscreen_v2.pagecontent</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="324.0" y="267.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/61a08138-e7b5-4b45-ae34-7f60d6f96eb9/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1017,92 +817,322 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/templatefile/activity1.html">
+    <entry file="uml://DATABASE/5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6</OriginalElement>
+          <nodes>
+            <node x="" y="">5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6.TABLE:infoscreen_v2.placeholder</node>
+            <node x="" y="">5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6.TABLE:infoscreen_v2.scheduler</node>
+            <node x="" y="">5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6.TABLE:infoscreen_v2.page</node>
+            <node x="" y="">5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6.TABLE:infoscreen_v2.template</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="250.0" y="267.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/sql/infoscreen.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5ae3f4a1-c5c1-4421-bacf-7b312c6a58f6/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="56" lean-forward="true" selection-start-line="0" selection-start-column="56" selection-end-line="0" selection-end-column="56" />
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/activity1.php">
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/uploadtemplate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="54" lean-forward="true" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        <state relative-caret-position="110">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/connectToDB.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
+    <entry file="uml://DATABASE/41e34fe7-af06-4f6c-9290-0a62d58d008d">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>41e34fe7-af06-4f6c-9290-0a62d58d008d</OriginalElement>
+          <nodes>
+            <node x="" y="">41e34fe7-af06-4f6c-9290-0a62d58d008d.TABLE:infoscreen_v2.placeholder</node>
+            <node x="" y="">41e34fe7-af06-4f6c-9290-0a62d58d008d.TABLE:infoscreen_v2.scheduler</node>
+            <node x="" y="">41e34fe7-af06-4f6c-9290-0a62d58d008d.TABLE:infoscreen_v2.page</node>
+            <node x="" y="">41e34fe7-af06-4f6c-9290-0a62d58d008d.TABLE:infoscreen_v2.template</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="250.0" y="267.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sql/insert.sql">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/41e34fe7-af06-4f6c-9290-0a62d58d008d/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="83" lean-forward="true" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/createtemplate.php">
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/sql/infoscreen_v2_values.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="36" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-            <marker date="1490787537691" expanded="true" signature="168:234" ph="SELECT (idTe... template" />
-            <marker date="1490787537691" expanded="true" signature="325:332" ph="SELECT (idPa... pagecontent" />
-            <marker date="1490787537691" expanded="true" signature="325:368" ph="SELECT HTML template" />
-          </folding>
+        <state relative-caret-position="416">
+          <caret line="79" column="31" lean-forward="true" selection-start-line="79" selection-start-column="31" selection-end-line="79" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template/activity.php">
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/sql/insert.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/03779dc8-f7bc-4328-b721-b5c3e517cf41">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>03779dc8-f7bc-4328-b721-b5c3e517cf41</OriginalElement>
+          <nodes>
+            <node x="" y="">03779dc8-f7bc-4328-b721-b5c3e517cf41.TABLE:infoscreen_v2.placeholder</node>
+            <node x="" y="">03779dc8-f7bc-4328-b721-b5c3e517cf41.TABLE:infoscreen_v2.scheduler</node>
+            <node x="" y="">03779dc8-f7bc-4328-b721-b5c3e517cf41.TABLE:infoscreen_v2.page</node>
+            <node x="" y="">03779dc8-f7bc-4328-b721-b5c3e517cf41.TABLE:infoscreen_v2.template</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="250.0" y="267.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/connectToDB.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <marker date="1490787761499" expanded="true" signature="113:187" ph="INSERT INTO template... " />
-            <marker date="1490787761499" expanded="true" signature="113:194" ph="INSERT INTO pagecontent... " />
-            <marker date="1490787761499" expanded="true" signature="113:212" ph="INSERT INTO pagecontent... " />
-            <marker date="1490787761499" expanded="true" signature="113:223" ph="INSERT INTO template... " />
-            <marker date="1490787761499" expanded="true" signature="234:323" ph="INSERT INTO template... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/template/generate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding>
-            <marker date="1490787720713" expanded="true" signature="167:242" ph="SELECT (idPa... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="347:397" ph="SELECT title... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="347:408" ph="SELECT title... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="347:413" ph="SELECT title... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="449:497" ph="SELECT img F... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="449:508" ph="SELECT img F... pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="550:599" ph="SELECT text pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="550:610" ph="SELECT text pagecontent" />
-            <marker date="1490787720713" expanded="true" signature="550:611" ph="SELECT text pagecontent" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sql/infoscreen.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/project.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4ecf8d92/03779dc8-f7bc-4328-b721-b5c3e517cf41/infoscreen_v2.placeholder">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/4ecf8d92/03779dc8-f7bc-4328-b721-b5c3e517cf41/infoscreen_v2.page">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/03779dc8-f7bc-4328-b721-b5c3e517cf41/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/activity1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="68" lean-forward="false" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/show/activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/show/activity1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/templatefile/template2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/generate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="false" />
+            <marker date="1491552387796" expanded="true" signature="167:221" ph="SELECT (idPl... placeholder" />
+            <marker date="1491552387796" expanded="true" signature="326:371" ph="SELECT title... placeholder" />
+            <marker date="1491552387796" expanded="true" signature="326:383" ph="SELECT conte... Placeholder" />
+            <marker date="1491552387796" expanded="true" signature="326:407" ph="SELECT conte... Placeholder" />
+            <marker date="1491552387796" expanded="true" signature="326:408" ph="SELECT conte... Placeholder" />
+            <marker date="1491552387796" expanded="true" signature="447:527" ph="SELECT conte... Placeholder" />
+            <marker date="1491552387796" expanded="true" signature="567:648" ph="SELECT conte... Placeholder" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/templatefile/template3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/templatefile/activity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="true" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/createtemplate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+            <marker date="1491548533461" expanded="true" signature="168:230" ph="INSERT INTO template... " />
+            <marker date="1491548533461" expanded="true" signature="287:353" ph="SELECT (idTe... template" />
+            <marker date="1491548533461" expanded="true" signature="444:487" ph="SELECT HTML template" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/css/infoscreen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="171" column="19" lean-forward="true" selection-start-line="171" selection-start-column="19" selection-end-line="171" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/template/activity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <marker date="1491469813547" expanded="true" signature="61:130" ph="INSERT INTO Page... " />
+            <marker date="1491469813547" expanded="true" signature="168:222" ph="SELECT (idPa... Page" />
+            <marker date="1491469813547" expanded="true" signature="355:457" ph="INSERT INTO Placeholder... " />
+            <marker date="1491469813547" expanded="true" signature="355:471" ph="INSERT INTO Placeholder... " />
+            <marker date="1491469813547" expanded="true" signature="484:596" ph="INSERT INTO Placeholder... " />
+            <marker date="1491469813547" expanded="true" signature="609:723" ph="INSERT INTO Placeholder... " />
+            <marker date="1491469813547" expanded="true" signature="1014:1773" ph="..." />
+            <marker date="1491469813547" expanded="true" signature="1025:1430" ph="..." />
+            <marker date="1491469813547" expanded="true" signature="1441:1463" ph="..." />
+            <marker date="1491469813547" expanded="true" signature="1441:1765" ph="..." />
+            <marker date="1491469813547" expanded="true" signature="1508:1597" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/js/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../infoscreen_v2/parent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
